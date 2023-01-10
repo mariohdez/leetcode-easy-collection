@@ -2,7 +2,8 @@ from array_problems.PlusOneSolution import PlusOneSolution
 
 def main() -> int:
     test = PlusOneSolution()
-    test.plusOne([1])
+    result = test.plusOne([9])
+    print(result)
 
     return 0
 
