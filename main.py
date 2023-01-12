@@ -1,9 +1,9 @@
-from array_problems.max_profit import MaxProfitSolution
+from string_problems.first_unique_char_in_a_str import FirstUniqueCharacterInString
 
 def main() -> int:
-    prices = [7,1,5,3,6,4]
-    test = MaxProfitSolution()
-    result = test.maxProfit(prices)
+    str = "loveleetcode"
+    test = FirstUniqueCharacterInString()
+    result = test.firstUniqChar(s=str)
     print(result)
 
     return 0
