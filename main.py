@@ -1,8 +1,9 @@
-from array_problems.PlusOneSolution import PlusOneSolution
+from array_problems.max_profit import MaxProfitSolution
 
 def main() -> int:
-    test = PlusOneSolution()
-    result = test.plusOne([9])
+    prices = [7,1,5,3,6,4]
+    test = MaxProfitSolution()
+    result = test.maxProfit(prices)
     print(result)
 
     return 0
