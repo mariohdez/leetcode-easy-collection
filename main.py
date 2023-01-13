@@ -1,9 +1,9 @@
-from string_problems.first_unique_char_in_a_str import FirstUniqueCharacterInString
+from string_problems.string_to_integer import StringToInteger
 
 def main() -> int:
-    str = "loveleetcode"
-    test = FirstUniqueCharacterInString()
-    result = test.firstUniqChar(s=str)
+    str = "-91283472332"
+    test = StringToInteger()
+    result = test.myAtoi(s=str)
     print(result)
 
     return 0
