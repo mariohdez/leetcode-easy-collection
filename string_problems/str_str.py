@@ -1,13 +1,13 @@
 class StrStr:
-    def strStr(self, haysack: str, needle: str) -> int:
+    def strStr(self, haystack: str, needle: str) -> int:
         i = 0
-        haystackLen = len(haysack)
+        haystackLen = len(haystack)
         needleLen = len(needle)
 
         while i < haystackLen:
             j = 0
 
-            while (i + j) < haystackLen and j < needleLen and haysack[i+j] == needle[j]:
+            while (i + j) < haystackLen and j < needleLen and haystack[i+j] == needle[j]:
                 j = j + 1
 
             if j == needleLen:
