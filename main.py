@@ -1,9 +1,9 @@
-from string_problems.str_str import StrStr
+from string_problems.longest_common_prefix import LongestCommonPrefixSolution
 
 def main() -> int:
-    str = "-91283472332"
-    test = StrStr()
-    result = test.strStr(haysack="leetcode", needle="leeto")
+    strs = ["flower","flow","flight"]
+    test = LongestCommonPrefixSolution()
+    result = test.longestCommonPrefix(strs=strs)
     print(result)
 
     return 0
