@@ -1,0 +1,15 @@
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.csproj.AssemblyReference.cache
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.AssemblyInfoInputs.cache
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.AssemblyInfo.cs
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.csproj.CoreCompileInputs.cache
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/bin/Debug/net7.0/LeetCodeEasyCollection
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/bin/Debug/net7.0/LeetCodeEasyCollection.deps.json
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/bin/Debug/net7.0/LeetCodeEasyCollection.runtimeconfig.json
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/bin/Debug/net7.0/LeetCodeEasyCollection.dll
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/bin/Debug/net7.0/LeetCodeEasyCollection.pdb
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.dll
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/refint/LeetCodeEasyCollection.dll
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.pdb
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/LeetCodeEasyCollection.genruntimeconfig.cache
+/Users/mariohernandez/development/leetcode-easy-collection/LeetCodeEasyCollection/LeetCodeEasyCollection/obj/Debug/net7.0/ref/LeetCodeEasyCollection.dll
